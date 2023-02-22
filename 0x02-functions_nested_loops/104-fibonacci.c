@@ -13,11 +13,11 @@ int main(void)
 	int count;
 
 	sum = 0;
-	first = 1;
-	second = 2;
+	first = 0;
+	second = 1;
 	count = 0;
 
-	while (count < 97)
+	while (count < 98)
 	{
 		sum = first + second;
 		printf("%li, ", sum);
