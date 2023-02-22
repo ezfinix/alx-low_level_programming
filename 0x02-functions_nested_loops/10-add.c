@@ -7,7 +7,7 @@
  *
  * Description: input two integers, return the sum
  *
- * Return: int sum 
+ * Return: int sum
  */
 int add(int a, int b)
 {
