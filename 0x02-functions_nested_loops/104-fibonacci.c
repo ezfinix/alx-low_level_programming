@@ -8,7 +8,7 @@
 
 int main(void)
 {
-	long float  sum;
+	long float sum;
 	long float first, second;
 	int count;
 
